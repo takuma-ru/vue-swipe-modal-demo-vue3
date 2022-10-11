@@ -7,7 +7,10 @@
       border-top-radius="16px"
       @close="close()"
     >
-      <p>contents</p>
+      <h3>For PC</h3>
+      <p>Drag and drop the chip at the top of the modal.</p>
+      <h3>For SP</h3>
+      <p>Swipe down the modal.</p>
     </swipe-modal>
   </div>
 </template>
